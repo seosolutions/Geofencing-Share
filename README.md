@@ -3,15 +3,15 @@ Android application that trigger a notification when you enter a specific zone d
 
 #How to use 
 
-Just modify the String var of the JSON file link on the main activity
+Just modify the String var of the JSON file link on the main activity<br>
 Your JSON must suit this array <br>
 
 {
-	"client" : "FNAC Montparnasse",
-	"link" : "https:\/\/www.FNAC.com",
-	"produit" : "PC",
-	"geofence" : {
-		"lat" : "48.845905",
-		"long" : "2.3250952",
-		"radius" : "30"}
-   }, 
+	"client" : "FNAC Montparnasse",<br>
+	"link" : "https:\/\/www.FNAC.com",<br>
+	"produit" : "PC",<br>
+	"geofence" : {<br>
+		"lat" : "48.845905",<br>
+		"long" : "2.3250952",<br>
+		"radius" : "30"}<br>
+   }, <br>

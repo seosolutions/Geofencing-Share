@@ -3,7 +3,7 @@ Android application that trigger a notification when you enter a specific zone d
 
 #How to use 
 
-Just modify the String var of the JSON file link on the main activity<br>
+Just modify the String var of the JSON file link on the main activity after the upload<br>
 Your JSON must suit this array <br>
 
 {
@@ -16,4 +16,4 @@ Your JSON must suit this array <br>
 		"radius" : "30"}<br>
    }, <br>
    
-   Upload it and modify the link on the variable named jsonLink.
+   

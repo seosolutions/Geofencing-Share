@@ -15,3 +15,5 @@ Your JSON must suit this array <br>
 		"long" : "2.3250952",<br>
 		"radius" : "30"}<br>
    }, <br>
+   
+   Upload it and modify the link on the variable named jsonLink.
